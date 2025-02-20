@@ -1,0 +1,22 @@
+body{
+word-wrap: break-word;
+    background-image: linear-gradient(to bottom, pink, rgb(124, 186, 197));
+
+ }
+ 
+
+  
+h1{
+    font-size: 1000;
+    color: black;
+}
+h2{
+    font-size: 200;
+}
+p{
+    font-size: 500;
+}
+img{
+    width: 200;
+    height: 200;
+}
