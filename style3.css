@@ -1,0 +1,36 @@
+body{
+word-wrap: break-word;
+    background-image: linear-gradient(to bottom, pink, rgb(124, 186, 197));
+    font: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: large;
+ }
+ 
+
+  
+h1{
+    font-size: 1000;
+    color: teal;
+}
+h2{
+    font-size: 200;
+    color: teal;
+}
+
+h3{
+    font-size: 200;
+    color: teal;
+}
+
+h4{
+    font-size: 200;
+    color: teal;
+}
+p{
+    font-size: 500;
+    color: teal;
+}
+img{
+    width: 200;
+    height: 200;
+}
